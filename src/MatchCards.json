@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/images/antman.jpg",
+    "clicked": false
+  },
+  {
+  "id": 2,
+  "image": "/images/everest.jpg",
+  "clicked": false
+  },
+  {
+  "id": 3,
+  "image": "/images/1917.jpg",
+  "clicked": false
+  },
+  {
+  "id": 4,
+  "image": "/images/deadpool.jpg",
+  "clicked": false
+  },
+  {
+  "id": 5,
+  "image": "/images/deadpool2.jpg",
+  "clicked": false
+  },
+  {
+  "id": 6,
+  "image": "/images/joker.jpg",
+  "clicked": false
+  },
+  {
+  "id": 7,
+  "image": "/images/martian.jpg",
+  "clicked": false
+  },
+  {
+  "id": 8,
+  "image": "/images/ted.jpg",
+  "clicked": false
+  },
+  {
+  "id": 9,
+  "image": "/images/ted2.jpg",
+  "clicked": false
+  },
+  {
+  "id": 10,
+  "image": "/images/top-gun.jpg",
+  "clicked": false
+  },
+  {
+  "id": 11,
+  "image": "/images/trolls.jpg",
+  "clicked": false
+  },
+  {
+  "id": 12,
+  "image": "/images/trolls-world-tour.jpg",
+  "clicked": false
+  }
+]
