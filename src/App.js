@@ -59,8 +59,6 @@ class App extends React.Component {
   };
 
   handleResetAllCards = () => {
-    const moviePosters = document.getElementById("game-cards");
-
     for (let i = 0 ; i < this.state.matches.length ; i++){
       matches[i].clicked = false;
       this.setState({
